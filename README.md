@@ -13,6 +13,6 @@
   <br>counting_hand.py
 </dir>
 <dir>
-  <h1>III. References.c</h1>
+  <h1>III. Reference</h1>
   (https://youtu.be/wQ7GPXR76xc?si=hXQv63wI_z94_2qY)
 </dirdir>
