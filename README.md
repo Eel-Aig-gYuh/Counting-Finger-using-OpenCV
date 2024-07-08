@@ -10,5 +10,5 @@
     <br>--- 0.jpg
     <br>--- *.jpg
   <br>hand.py
-  <br>counting_finger.py
+  <br>counting_hand.py
 </dir>
