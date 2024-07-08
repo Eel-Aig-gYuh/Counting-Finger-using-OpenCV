@@ -1,8 +1,8 @@
 # Counting-Finger-using-OpenCV
 <dir>
   <h1>Chuẩn bị môi trường</h1>
-  Tải về thư viện để thực thi môi trường.
-    <i>pip install -r requirements.
+  Tải về thư viện để thực thi môi trường: 
+    <i>pip install -r requirements </i>.
 </dir>
 <dir>
   <h2>Chuẩn bị cây thư mục</h2>
