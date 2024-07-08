@@ -5,7 +5,7 @@
     <i>pip install -r requirements </i>.
 </dir>
 <dir>
-  <h2>Chuẩn bị cây thư mục</h2>
+  <h1>Chuẩn bị cây thư mục</h1>
   Fingers
     <br>--- 0.jpg
     <br>--- *.jpg
